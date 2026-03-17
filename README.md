@@ -11,7 +11,7 @@ What used to take days now takes under 10 seconds.
 - LangGraph — multi-agent orchestration and state management
 - FastAPI — REST API with Server-Sent Events (SSE) for live streaming
 - LangChain OpenAI — LLM calls for the judge agent
-- Python 3.11+
+- Python 3.9+
 
 ## Frontend
 
