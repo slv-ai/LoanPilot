@@ -1,7 +1,7 @@
 def main():
     
     
-    print("Hello from loanpilot!")
+    print("Hello, World!")
 
 
 if __name__ == "__main__":
